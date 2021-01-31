@@ -1,0 +1,7 @@
+# OS specific
+.DS_Store
+
+# Project specific
+*.log
+.env*
+node_modules/
